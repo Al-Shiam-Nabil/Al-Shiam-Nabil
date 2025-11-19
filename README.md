@@ -3,7 +3,7 @@
 <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/33d55174-6a93-4d56-92ae-fb2328e9108f" />
 
 <h1 align="left">Hi 👋, I'm Al Shiam Nabil</h1>
-<h3 align="left">I am a frontend developer specializing in modern web technologies. I love building clean, responsive, and user-friendly websites using HTML, CSS, Tailwind, JavaScript, and React. I'm also learning Node.js, Express.js, and MongoDB to grow into a full MERN stack developer. Open to internship and full-time opportunities!</h3>
+<p align="left">I am a frontend developer specializing in modern web technologies. I love building clean, responsive, and user-friendly websites using HTML, CSS, Tailwind, JavaScript, and React. I'm also learning Node.js, Express.js, and MongoDB to grow into a full MERN stack developer. Open to internship and full-time opportunities!</p>
 
 Reach me : **nabil15-4777@diu.edu.bd**
 
