@@ -45,15 +45,18 @@ Reach me : **nabil15-4777@diu.edu.bd**
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-shiam-nabil&show_icons=true&locale=en&layout=compact" alt="al-shiam-nabil" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-shiam-nabil&show_icons=true&layout=compact&theme=transparent" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=al-shiam-nabil&show_icons=true&locale=en" alt="al-shiam-nabil" />
+### Repository Stats & Streak:
+
+<img src="https://github-readme-stats.vercel.app/api?username=al-shiam-nabil&show_icons=true&theme=transparent" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=al-shiam-nabil" alt="al-shiam-nabil" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=al-shiam-nabil&theme=transparent" />
+
 
 </div>
 
