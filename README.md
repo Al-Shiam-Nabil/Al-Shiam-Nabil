@@ -9,7 +9,8 @@ Reach me : **nabil15-4777@diu.edu.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/al.shiam.nabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="al shiam anbil" height="30" width="40" /></a>
+<a href="https://fb.com/al.shiam.nabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="al shiam nabil" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/al-shiam-nabil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al shiam nabil" height="30" width="40" /></a>
 </p>
 
 <br>
